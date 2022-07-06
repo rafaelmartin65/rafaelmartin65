@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaelmartin65
 - 👀 I’m interested in Programming Languages
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on wordpress projects
 - 📫 How to reach me by email -- > rmartin65@gmail.com
 
