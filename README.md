@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafaelmartin65
+- 👋 Hi, I’m Rafael Martín
 - 👀 I’m interested in Programming Languages
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on wordpress projects
