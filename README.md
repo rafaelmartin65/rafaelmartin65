@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafael Martín
 - 👀 I’m interested in Programming Languages
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on wordpress projects
 - 📫 How to reach me by email -- > rmartin65@gmail.com
 
